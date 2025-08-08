@@ -1,0 +1,7 @@
+{
+  "name": "SecureHub File Upload",
+  "version": "4.1.0",
+  "nodes": [
+    "nodes/securehub-upload/securehub-upload.node.ts"
+  ]
+}
